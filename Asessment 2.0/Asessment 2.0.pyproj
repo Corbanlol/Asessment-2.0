@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Asessment_2.0.py" />
+    <Compile Include="Movie_list_data.py" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env1\">
