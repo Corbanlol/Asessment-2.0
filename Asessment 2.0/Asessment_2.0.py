@@ -16,8 +16,8 @@ def show_entries():
     for row in cursor.fetchall():
         print (row)
     
-
         
+
 def add_entries():
     ID = e0.get()
     Movie_name = e1.get()
