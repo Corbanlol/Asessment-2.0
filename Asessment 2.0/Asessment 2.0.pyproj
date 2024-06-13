@@ -36,6 +36,12 @@
       <Architecture>X64</Architecture>
     </Interpreter>
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="env1\Movie_listDB for assesment 4.accdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="env1\" />
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
        Visual Studio and specify your pre- and post-build commands in
